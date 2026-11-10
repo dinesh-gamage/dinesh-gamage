@@ -1,6 +1,6 @@
 ### Hi, I'm Dinesh
 
-Technical Lead at iviva. I combine hands-on engineering with application architecture and technical leadership, and I build developer tools and libraries along the way.
+As a Technical Lead at iviva, I combine hands-on engineering with application architecture and technical leadership. My work spans developing core application frameworks, full-stack solutions, developer tools, and system integrations, as well as contributing to enterprise product development and client implementations.
 
 [Portfolio](https://dineshgamage.dev) · [Garage](https://dineshgamage.dev/garage) · [LinkedIn](https://www.linkedin.com/in/dinesh-sankhe-gamage)
 
