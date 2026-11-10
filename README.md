@@ -1,6 +1,10 @@
 ### Hi, I'm Dinesh
 
-As a Technical Lead at iviva, I combine hands-on engineering with application architecture and technical leadership. My work spans developing core application frameworks, full-stack solutions, developer tools, and system integrations, as well as contributing to enterprise product development and client implementations.
+I'm a software engineer and Technical Lead based in Sri Lanka, with experience in application architecture, product development, and technical leadership.
+
+My work spans frontend frameworks, full-stack applications, developer tooling, and enterprise software solutions. In my work, I've played a key role in shaping a platform's frontend architecture, including independently developing and evolving its React-based application framework.
+
+I enjoy understanding problems beyond the technical requirements, designing practical solutions, and staying hands-on throughout development. I'm equally comfortable building software, exploring new technologies, and collaborating with teams to solve complex engineering challenges.
 
 [Portfolio](https://dineshgamage.dev) · [Garage](https://dineshgamage.dev/garage) · [LinkedIn](https://www.linkedin.com/in/dinesh-sankhe-gamage)
 
